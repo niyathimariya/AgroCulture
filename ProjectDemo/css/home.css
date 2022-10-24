@@ -1,0 +1,80 @@
+body
+{
+    
+    background-image: url(photoscss/image2.jpg);
+    object-fit: cover;
+    opacity: 10;
+}
+p
+{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#veggies
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#carrot:hover
+{
+    opacity:0.5;
+}
+#beetroot:hover
+{
+    opacity:0.5;
+}
+#cabbage:hover
+{
+    opacity:0.5;
+}
+#caulifower:hover
+{
+    opacity:0.5;
+}
+#chilli:hover
+{
+    opacity:0.5;
+}
+#ladysfinger:hover
+{
+    opacity:0.5;
+}
+#rice:hover
+{
+    opacity:0.5;
+}
+#tomato:hover
+{
+    opacity:0.5;
+}
+#eggs:hover
+{
+    opacity:0.5;
+}
+h1
+{
+    text-align: center;
+    font-weight:bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+}
+h1:hover
+{
+    font-weight: bolder;
+}
+hr
+{
+    border: 1px solid white;
+  }
+  
+/*#main
+{
+    border:5px solid white;
+}*/
+#header
+{
+    display:flex;
+}
